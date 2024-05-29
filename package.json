@@ -2,7 +2,7 @@
   "name": "@ninja-labs/verify-pdf",
   "version": "1.0.0",
   "description": "verify pdf files in JS",
-  "main": "lib/index.js",
+  "main": "index.js",
   "engines": {
     "node": ">=8.9"
   },
